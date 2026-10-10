@@ -1,0 +1,21 @@
+{
+  "name": "sitemariem",
+  "version": "1.0.0",
+  "description": "Site institucional da Mariem Machado com backend mínimo para leads",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "site",
+    "landing-page",
+    "portfolio",
+    "express"
+  ],
+  "author": "Mariem Machado",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
